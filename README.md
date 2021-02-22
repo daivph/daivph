@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đại</h1>
 
-- 🔭 I’m currently working on [Food Delivery] (https://github.com/Foodedu/app)
+- 🔭 I’m currently working on [Food Delivery](https://github.com/Foodedu/app)
 
 - 🌱 I’m currently learning **Flutter**
 
