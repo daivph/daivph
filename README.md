@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đại</h1>
 
-👋 Greetings Flutter Aficionados! I'm Dai, your friendly neighborhood Flutter Developer. If Flutter were a sport, I'd be the MVP! 🏆 I've been fluttering around the development scene for 8years, and my code speaks Dart fluently (and maybe a bit of sarcasm).
+👋 Greetings Flutter Aficionados! I'm Dai, your friendly neighborhood Flutter Developer. If Flutter were a sport, I'd be the MVP! 🏆 I've been fluttering around the development scene for 4 years (with a total of 8 years in mobile development), and my code speaks Dart fluently (and maybe a bit of sarcasm).
 
 
 🚀 Flutter Superpowers:
