@@ -6,8 +6,11 @@
 🚀 Flutter Superpowers:
 
 🚀 Flying high in crafting sleek and responsive mobile apps with Flutter.
+
 🌐 Fluent in Dart, the language that makes Flutter sing (and sometimes tell a joke or two).
+
 ⚙️ Master of state management, widget acrobatics, and making performance optimization look easy.
+
 ⚡ Fun fact: I love to play **Badminton** and drink **Beer**
 
 <!--
